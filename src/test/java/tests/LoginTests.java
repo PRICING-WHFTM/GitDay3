@@ -24,6 +24,7 @@ public class LoginTests {
         WebDriverManager.chromedriver().setup();
         driver = new ChromeDriver();
         driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+        System.out.println("BeforeMethod");
     }
 
     @Test
