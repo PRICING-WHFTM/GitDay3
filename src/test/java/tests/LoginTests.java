@@ -29,6 +29,7 @@ public class LoginTests {
         System.out.println("unit testing");
         System.out.println("system testing");
         System.out.println("back-end testing");
+        System.out.println("UI testing");
 
     }
 
