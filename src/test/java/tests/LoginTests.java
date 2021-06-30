@@ -27,6 +27,7 @@ public class LoginTests {
         System.out.println("BeforeMethod");
         System.out.println("Integration testing");
         System.out.println("unit testing");
+        System.out.println("system testing");
 
     }
 
