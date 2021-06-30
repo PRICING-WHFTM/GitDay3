@@ -28,6 +28,7 @@ public class LoginTests {
         System.out.println("Integration testing");
         System.out.println("unit testing");
         System.out.println("system testing");
+        System.out.println("UI testing");
 
     }
 
