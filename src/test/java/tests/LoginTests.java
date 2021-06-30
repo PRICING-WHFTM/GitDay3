@@ -31,6 +31,7 @@ public class LoginTests {
         System.out.println("back-end testing");
         System.out.println("UI testing");
         System.out.println("i do testing");
+        System.out.println("i do verification");
 
     }
 
